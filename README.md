@@ -1,4 +1,4 @@
-# Systèmes d'exploitation - L3 Informatique Dauphine (2023)
+# Systèmes d'exploitation - L3 Informatique Dauphine (2025)
 
 🇫🇷 Ce dépôt contient les ressources pédagogiques du cours de systèmes d'exploitation pour les étudiants en licence 3
 informatique à l'université Paris-Dauphine, pour l'année 2025.
