@@ -1,0 +1,50 @@
+/* dauphine.css */
+/* @theme dauphine */
+
+@import 'default';
+
+h1 {
+  color: black
+}
+
+table {
+  text-align: left;
+}
+
+section.lead {
+  text-align: center;
+}
+
+section.lead footer,
+section.lead header {
+  width: 100%;
+  left: 0
+}
+
+section.lead h2,
+section.lead h1 {
+  margin: 0;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+
+.frame {
+  border: solid 1px 	#A9A9A9;
+  padding-top: 25px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.small  {
+  font-size: small;
+  font-style: italic;
+}
